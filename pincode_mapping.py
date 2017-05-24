@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import datetime
 import sys
-sys.path.append('/home/ubuntu/yadu/config')
+sys.path.append('/home/ubuntu/ankur/config')
 import dbConfig_pr as dbConfig
 from DistanceCalculation import computeHaversineDistance as chd
 
